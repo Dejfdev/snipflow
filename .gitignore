@@ -1,0 +1,11 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build outputs
+*.app/
+*.o
+*.out
+/SnipFlow
+AppIcon.iconset/
