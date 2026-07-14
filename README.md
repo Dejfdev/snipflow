@@ -2,7 +2,7 @@
 
 A lightweight, native macOS screenshot utility inspired by the Windows 11 Snipping Tool. Built in Swift and SwiftUI with zero external dependencies.
 
-![SnipFlow Capture Bar Preview](screenshots/bar.png)
+![SnipFlow Capture Bar Preview](screenshots/snipflow_banner.png)
 
 SnipFlow lets you capture screen regions with a global shortcut, perform offline OCR text recognition, pin screenshots as floating reference stickers, and automatically save captured files to your Pictures directory.
 
